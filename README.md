@@ -1,4 +1,4 @@
-# Table Finder 🧾
+# Table Finder
 
 A simple Python project that detects tables in document images (invoices, bank documents, etc.) using a pre-trained DETR model from Hugging Face.
 
