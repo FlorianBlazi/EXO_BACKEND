@@ -50,8 +50,10 @@ All dependencies are listed in `requirements.txt`.
 
 ### 1) Clone the repository
 
-git clone https://github.com/<FlorianBlazi>/table-finder.git  
+```bash
+git clone https://github.com/FlorianBlazi/EXO_BACKEND.git  
 cd table-finder
+```
 
 ### 2) Create a Python virtual environment (recommended)
 
