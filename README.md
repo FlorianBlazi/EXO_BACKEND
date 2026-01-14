@@ -22,12 +22,14 @@ This project is a learning exercise focused on:
 
 ## Project structure
 
+'''text
 .
 ├── table_finder.py
 ├── test_table_finder.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+'''
 
 ---
 
